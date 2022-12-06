@@ -8,9 +8,9 @@ Data: Title, genre, studio, profitability and ratings for movies released 2007-2
 
 [Download link](https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv)
 
-Techniques used: 
+##Techniques used: 
 
-Data Cleaning 
+###Data Cleaning 
 
   -Checking missing data and removing
 
@@ -19,14 +19,14 @@ Data Cleaning
   -Removal of duplicates
   
   
-Exploratory Data Analysis
+###Exploratory Data Analysis
   
   -Univariate Analysis
   
   -Bivariate Analysis
   
   
-Exporting Data
+###Exporting Data
 
  
 
